@@ -1,4 +1,3 @@
-from turtle import position
 from sqlalchemy import true
 from streamlit_option_menu import option_menu
 from PIL import Image
